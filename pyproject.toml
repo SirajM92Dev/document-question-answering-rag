@@ -3,7 +3,7 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "document-qa-rag"
+name = "document-question-answering-rag"
 version = "1.0.0"
 description = "Production-ready document question answering with retrieval-augmented generation."
 readme = "README.md"
