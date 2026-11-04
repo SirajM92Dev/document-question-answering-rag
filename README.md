@@ -1,4 +1,4 @@
-# Project 5: Document Question Answering Using RAG
+# Document Question Answering Using RAG
 
 A production-oriented Retrieval-Augmented Generation (RAG) application for uploading PDF documents, indexing their contents, retrieving semantically relevant passages, generating grounded LLM answers, and evaluating response quality.
 
